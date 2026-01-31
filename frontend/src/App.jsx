@@ -86,7 +86,7 @@ function App() {
   return (
     <div className="app">
       <header className="header">
-        <h1>🇮🇳 India SME Contract Intelligence Engine</h1>
+        <h1>SME Contract Intelligence Engine</h1>
         <p className="subtitle">Analyze business contracts • Identify risks • Get SME-friendly suggestions</p>
         <p className="disclaimer">Not legal advice. For informational purposes only.</p>
       </header>

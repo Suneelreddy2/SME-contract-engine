@@ -1,0 +1,40 @@
+SERVICE AGREEMENT (SME-Friendly Template)
+
+This Service Agreement ("Agreement") is made on [DATE] between:
+
+(1) [CLIENT NAME], having its registered office at [ADDRESS] ("Client");
+(2) [SERVICE PROVIDER NAME], having its registered office at [ADDRESS] ("Service Provider").
+
+1. SCOPE OF SERVICES
+1.1 The Service Provider shall perform the services described in Schedule A ("Services").
+1.2 The parties shall agree on deliverables and acceptance criteria in writing before commencement.
+
+2. TERM AND TERMINATION
+2.1 This Agreement shall commence on the Effective Date and continue for an initial term of [12] months.
+2.2 Either party may renew for successive [12]-month periods by giving at least 60 days' prior written notice. There is no automatic renewal.
+2.3 Either party may terminate this Agreement for convenience by giving 30 days' prior written notice. Payment shall be made only for work completed up to the termination date.
+2.4 Either party may terminate for material breach if the other party fails to cure within 30 days of written notice.
+
+3. FEES AND PAYMENT
+3.1 The Client shall pay the Service Provider the fees set out in Schedule B. Payment terms: net 30 days from invoice date.
+3.2 Late payment shall attract interest at [X]% per annum on the overdue amount.
+
+4. LIMITATION OF LIABILITY
+4.1 Except for breach of confidentiality or wilful misconduct, each party's total liability shall not exceed the total fees paid or payable in the 12 months preceding the claim.
+4.2 Neither party shall be liable for indirect, consequential, or punitive damages.
+
+5. INTELLECTUAL PROPERTY
+5.1 The Service Provider retains ownership of all pre-existing tools, templates, and background IP. The Client receives a licence to use deliverables for the agreed purpose.
+5.2 Only project-specific deliverables created under this Agreement shall be assigned to the Client, as set out in Schedule A.
+
+6. CONFIDENTIALITY
+6.1 Each party shall keep the other's Confidential Information confidential and use it only for performing this Agreement. Exclusions: publicly available information, independently developed, or rightfully received from a third party.
+
+7. GOVERNING LAW AND DISPUTE RESOLUTION
+7.1 This Agreement is governed by the laws of India. The courts of [CITY] shall have exclusive jurisdiction.
+7.2 The parties shall attempt to resolve disputes in good faith. If unresolved within 30 days, either party may refer the dispute to arbitration under the Arbitration and Conciliation Act, 1996, with seat at [CITY] and one arbitrator mutually appointed.
+
+8. GENERAL
+8.1 Entire agreement; amendments in writing; no waiver. Notices in writing to the addresses above.
+
+[Signatures]

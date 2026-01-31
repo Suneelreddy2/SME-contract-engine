@@ -1,0 +1,15 @@
+# Render Blueprint: single web service (Docker)
+# Dashboard: https://dashboard.render.com -> New -> Blueprint -> Connect repo, select render.yaml
+services:
+  - type: web
+    name: india-sme-contract-engine
+    runtime: docker
+    dockerfilePath: ./Dockerfile
+    envVars:
+      - key: OPENAI_API_KEY
+        sync: false
+      - key: ANTHROPIC_API_KEY
+        sync: false
+      # Optional: set after deploy to your actual URL if you add a separate frontend
+      # - key: ALLOW_ORIGINS
+      #   value: https://YOUR-SERVICE-NAME.onrender.com
